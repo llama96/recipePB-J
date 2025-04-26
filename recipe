@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>peanut butter&jelly sendwich</title>
+  </head>
+  <body>
+    <h1>peanut butter&jelly sendwich</h1>
+    <p>a sendwich with peanut butter&jelly</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>peanut butter</li>
+      <li>jelly</li>
+      <li>bread</li>
+      <li>love</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>you take the bread</li>
+      <li>you divide it in tow parts</li>
+      <li>you spread the peanut butter on one side</li>
+      <li>you spread the jelly on the other side</li>
+      <img src="https://f4.bcbits.com/img/a2059610487_10.jpg" alt="peanut butter jelly time">
+    </ol>
+  </body>
+</html>
